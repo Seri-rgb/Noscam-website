@@ -1,11 +1,10 @@
-body {
-	background-image:url(ln.jpg);
-	background-size:100%;
+body{
+	background:yellow;
 }
 h1 {
 	font-size:75px;
 	font-family:Fantasy;
-    color:white;
+        color:black;
 	text-align:center;
 }
 #myButton{
